@@ -12,7 +12,9 @@ Example data is provided to convey intended use, and to support any hosted examp
 
 ## Overview
 
-TBD
+### Setting Up GitHub Pages
+
+Make sure to enable Pages, on the main branch serving the `/ (root)` directory. 
 
 ## Commercial Support
 
