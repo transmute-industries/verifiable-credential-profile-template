@@ -1,0 +1,7 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1", 
+    "https://www.w3.org/ns/credentials/v2"
+  ],
+  "id": "did:web:transmute-industries.github.io:verifiable-credential-profile-template:issuers:example"
+}
