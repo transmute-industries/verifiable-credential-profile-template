@@ -20,6 +20,18 @@ Example data is provided to convey intended use, and to support any hosted examp
 
 Make sure to enable GitHub Pages, on the main branch serving the `/ (root)` directory.
 
+### Custom Domain Names
+
+The use of custom domain names is RECOMMENDED.
+
+In addition to ensuring that your profile will remain under control of the domain controller, as opposed to a service provider.
+
+DNS layer binding can be helpful in establishing the legitimacy of your terminology and contexts.
+
+This is especially true for brands, constortiums or governments who control hihgly recognizable and trusted domain names on the internet.
+
+A future update to this profile will shorten the examples provided here, and leverage the GitHub Pages support for custom domain names.
+
 ### Updating URLs
 
 This template comes preconfigured with JSON and YAML examples that include absolute URLs and DID URLs.
